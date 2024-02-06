@@ -1,0 +1,7 @@
+*.class
+a2/.gradle
+a2/.build
+a2/.idea
+a1
+a1/build
+a1/.gradle
